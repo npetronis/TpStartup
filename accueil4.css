@@ -24,6 +24,7 @@ header::after {
 	z-index: -1;
     /* opacité du background*/
   	opacity: 0.6;
+	
 }
 /* barre de nav*/
 nav {
@@ -86,34 +87,7 @@ nav {
 	margin: 0;
 }
 
-#drop-menu {
-	position: relative;
-}
 
-#dropdown-menu {
-	display: none;
-	box-shadow: 0 2px 5px #ccc; 
-	border-top: 2px solid rgb(170, 210, 54);
-	position: absolute;
-	padding: 20px;
-	right: 0;
-	width: 150px;
-	background-color: #fff;
-}
-
-#drop-menu:hover #dropdown-menu {
-	display: block;
-}
-
-#dropdown-menu li {
-	border-bottom: 1px solid #ccc;
-    padding: 4px;
-}
-
-#dropdown-menu li a {
-	font-size: 1.1em;
-	font-weight: 100;
-}
 /*text*/
 #header-desc {
 	width: 80%;
