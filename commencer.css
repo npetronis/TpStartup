@@ -1,12 +1,4 @@
-header::after {
 
-	background-image: url('numerique2bisbis.webp');
-   
-    /* opacité du background*/
-  	opacity: 0.7;
-   
-	
-}
 #header-desc {
 
 	width: 100%;
@@ -39,9 +31,8 @@ header::after {
   }
   
   body {
-    display: grid;
-    place-items: center;
-    min-height: 100vh;
+
+  
     background-color: #171717;
   }
   
