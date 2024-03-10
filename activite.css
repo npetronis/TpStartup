@@ -4,6 +4,9 @@ header::after {
 	
 }
 #header-desc {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	width: 80%;
 	position: absolute;
 	left: 50%;
