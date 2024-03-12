@@ -12,7 +12,7 @@ header {
 /*image de fond derriere le titre et le sous titre */
 header::after {
 	content: " ";
-	background-image: url('oldgen3.webp');
+	background-image: url('vieuxcasque.jpg');
 	background-position: left;
 	background-size: cover;
 	position: absolute;
@@ -95,7 +95,7 @@ nav {
 	left: 50%;
 	top: 50%;
 	transform: translate(-50%, -50%);
-	background-color: rgba(255, 255, 255, 0.9); 
+	background-color: rgba(255, 255, 255, 0.1); 
 }
 
 /*taille des titres*/
