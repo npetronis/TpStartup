@@ -36,7 +36,7 @@ header::after {
 }
 footer{
 	position: static;
-	height: 50px;
+	height: 40px;
     z-index: 1; /* Assure que le footer reste au-dessus du contenu si nécessaire */
 }
 
