@@ -35,7 +35,8 @@ header::after {
   	opacity: 0.8;
 }
 footer{
-	
+	position: static;
+	height: 50px;
     z-index: 1; /* Assure que le footer reste au-dessus du contenu si nécessaire */
 }
 
